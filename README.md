@@ -6,17 +6,17 @@ World Health Organization has estimated 12 million deaths occur worldwide, every
 Each attribute is a potential risk factor. There are both demographic, behavioral and medical risk factors.
 
 # Demographic:
-- Sex: male or female(Nominal)
+- Sex: male or female (Nominal)
 - Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
 # Behavioral
 - Current Smoker: whether or not the patient is a current smoker (Nominal)
 - Cigs Per Day: the number of cigarettes that the person smoked on average in one day.(can be considered continuous as one can have any number of cigarettes, even half a cigarette.)
-# Medical( history)
+# Medical (history)
 - BP Meds: whether or not the patient was on blood pressure medication (Nominal)
 - Prevalent Stroke: whether or not the patient had previously had a stroke (Nominal)
 - Prevalent Hyp: whether or not the patient was hypertensive (Nominal)
 - Diabetes: whether or not the patient had diabetes (Nominal)
-# Medical(current)
+# Medical (current)
 - Tot Chol: total cholesterol level (Continuous)
 - Sys BP: systolic blood pressure (Continuous)
 - Dia BP: diastolic blood pressure (Continuous)
