@@ -32,6 +32,7 @@ Each attribute is a potential risk factor. There are both demographic, behaviora
   - Manual correction of some data points that are outliers in features.
   - Application of the Z-score method to identify outliers, followed by adjusting data so that they fall within about 2 - 2.5 standard deviations from the mean (initial outlier values > 3.5 standard deviations).
   - After data preprocessing, a correlation matrix was visualized and the variance_inflation_factor method applied for visual analysis of correlation between features and identifying multicollinearity.
+  - Smote, OverSample method for unbalanced classes
 # What models and evaluation were applied?
 - Such models as:
   - Logistic Regression,
